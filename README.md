@@ -4,10 +4,6 @@
 > **donors**, recording their **semen collections**, tracking full **pedigree**
 > data, and exporting official-style **PDF breeding certificates**.
 
-> ⚠️ **Language / stack note for job-matching:** despite the analysis brief asking
-> for "Python job matching", **this project contains no Python.** It is a **Java 17
-> / Spring Boot / JavaFX** desktop application. See
-> [`ADDITIONAL.md`](./ADDITIONAL.md) for how this affects role targeting.
 
 ---
 
